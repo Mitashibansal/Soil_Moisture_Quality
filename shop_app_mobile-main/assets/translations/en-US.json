@@ -1,0 +1,23 @@
+{
+    "title": "Hello",
+    "msg": "Hello {} in the {} world ",
+    "msg_named": "{} are written in the {lang} language",
+    
+    "login": {
+        "welcome": "Welcome",
+        "enter_number":"Enter your phone number",
+        "verify_button":"Verify"
+    },
+    "otp_screen": {
+        "verify_otp": "Please type the verification code sent to ",
+        "otp_resend":"Enter your phone number",
+        "verify_button":"Verify","resend_button":"Resend"
+        
+
+    },
+    "home":{"choose_image":"Touch here to capture image","please_choose":"Please choose a picture",
+    "unexpected_error":"Unexpected error occured. please reopen the app",
+    "access_gallery":"Unable to access gallery. Please provide permission"},
+   
+    "reset_locale": "Reset Language"
+}

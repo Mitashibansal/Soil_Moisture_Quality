@@ -1,0 +1,17 @@
+{
+    "title": "Hujambo",
+    "msg": "Hujambo {} katika ulimwengu {} ",
+    "msg_named": "{} zimeandikwa katika lugha ya {lang}",
+    "login": {
+      "welcome": "Karibu",
+      "enter_number": "Weka nambari yako ya simu",
+      "verify_button": "Thibitisha"
+    },
+    "otp_screen": {
+      "verify_otp": "Karibu",
+      "otp_resend": "Weka nambari yako ya simu",
+      "verify_button": "Thibitisha",
+      "resend_button": "Tuma Upya"
+    },
+    "reset_locale": "Weka Upya Lugha"
+  }

@@ -1,0 +1,17 @@
+{
+    "title": "हैलो",
+    "msg": "हैलो {} {} दुनिया में",
+    "msg_named": "{} {लैंग} भाषा में लिखे गए हैं",
+    "login": {
+      "welcome": "स्वागत है",
+      "enter_number": "अपना फोन नंबर दर्ज करें",
+      "verify_button": "सत्यापित करें"
+    },
+    "otp_screen": {
+      "verify_otp": "स्वागत है",
+      "otp_resend": "अपना फोन नंबर दर्ज करें",
+      "verify_button": "सत्यापित करें",
+      "resend_button": "पुनः भेजें"
+    },
+    "reset_locale": "भाषा रीसेट करें"
+  }

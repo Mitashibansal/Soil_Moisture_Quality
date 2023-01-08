@@ -1,0 +1,18 @@
+{
+    "title": "",
+    "product_name": "",
+    "description": "",
+    "is_onsite": true,
+    "price": 200.0,
+    "quantity": 2,
+    "unit": "",
+    "latitude": 1.3333,
+    "longitude": 2.445,
+    "readable_location": "",
+    "status": 1,
+    "category_id": 3,
+    "distance": 10.0,
+    "category": {
+        "name": "d"
+    }
+}

@@ -1,0 +1,7 @@
+debug 
+"D:\Android\jre\bin\keytool" -list -v -alias androiddebugkey -keystore "C:\Users\Mitashi Bansal\.android\debug.keystore"
+Password: android
+
+
+
+"D:\Android\jre\bin\keytool" -genkey -v -keystore "D:\UIA Flutter\upload-keystore.jks" -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload

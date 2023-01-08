@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721707298695",
+    "project_id": "uia-app",
+    "storage_bucket": "uia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721707298695:android:e88922f9e62415dfcd2d22",
+        "android_client_info": {
+          "package_name": "com.app.uia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721707298695-bet3ie9nad43vh2v37pjnnhch1jk6udm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvEchGMPeteuJsRcpVOTzsGyyIhLg3CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721707298695-bet3ie9nad43vh2v37pjnnhch1jk6udm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
